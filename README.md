@@ -1,3 +1,8 @@
+# To Do
+* [ ] For Waveshare JetBot - the drive directions are swapped. Fix that
+* [ ] Orignal repo has good pull-requests. Add them to this.
+
+---
 # jetbot_ros
 ROS nodes and Gazebo model for NVIDIA JetBot with Jetson Nano
 
